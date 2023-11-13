@@ -1,0 +1,484 @@
+{"phoneNumber":" 250785569911","sessionId":"715479627","serviceCode":"454","text":""}
+ get_0:
+12:55:40
+
+{"phoneNumber":" 250785569911","sessionId":"715479627","serviceCode":"454","text":""}
+ get_0:
+12:55:54
+
+{"phoneNumber":" 250785569911","sessionId":"715479627","serviceCode":"454","text":""}
+ get_0:
+12:57:40
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":""}
+ get_0:
+12:00:17
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1"}
+ get_0:1
+12:00:22
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:00:29
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+12:00:35
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1*roger"}
+ get_0:1
+12:00:41
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1*roger*1234567890123456"}
+ get_0:1
+12:00:52
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911"}
+ get_0:1
+12:01:01
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911*1"}
+ get_0:1
+12:01:09
+
+{"phoneNumber":"0785569911","sessionId":"939731426","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911*1*Ngoma"}
+ get_0:1
+12:01:17
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":""}
+ get_0:
+12:20:39
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1"}
+ get_0:1
+12:20:43
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:20:47
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+12:20:52
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1*1*1*Roger"}
+ get_0:1
+12:20:59
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456"}
+ get_0:1
+12:21:11
+
+{"phoneNumber":"0785569911","sessionId":"521211616","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456*0785569911"}
+ get_0:1
+12:21:19
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":""}
+ get_0:
+12:21:51
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1"}
+ get_0:1
+12:22:02
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:22:06
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+12:22:10
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1*1*Hirwa"}
+ get_0:1
+12:22:17
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1*1*Hirwa*1234567890123456"}
+ get_0:1
+12:22:27
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1*1*Hirwa*1234567890123456*0785569911"}
+ get_0:1
+12:22:34
+
+{"phoneNumber":"0785569911","sessionId":"297518024","serviceCode":"*454","text":"1*1*1*Hirwa*1234567890123456*0785569911*8"}
+ get_0:1
+12:22:41
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":""}
+ get_0:
+12:22:52
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1"}
+ get_0:1
+12:22:58
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:23:02
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+12:23:07
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1*Roger"}
+ get_0:1
+12:23:12
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456"}
+ get_0:1
+12:23:21
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456*0785569911"}
+ get_0:1
+12:23:28
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456*0785569911*3"}
+ get_0:1
+12:23:35
+
+{"phoneNumber":"0785569911","sessionId":"810802264","serviceCode":"*454","text":"1*1*1*Roger*1234567890123456*0785569911*3*Ngoma"}
+ get_0:1
+12:23:53
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":""}
+ get_0:
+12:44:55
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1"}
+ get_0:1
+12:45:01
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:45:04
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+12:45:09
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1*roger"}
+ get_0:1
+12:45:18
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1*roger*1234567890123456"}
+ get_0:1
+12:45:27
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911"}
+ get_0:1
+12:45:34
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911*3"}
+ get_0:1
+12:45:40
+
+{"phoneNumber":"0785569911","sessionId":"852140032","serviceCode":"*454","text":"1*1*1*roger*1234567890123456*0785569911*3*Kigaliii"}
+ get_0:1
+12:45:47
+
+{"phoneNumber":"0785569911","sessionId":"439763222","serviceCode":"*454","text":""}
+ get_0:
+12:58:49
+
+{"phoneNumber":"0785569911","sessionId":"439763222","serviceCode":"*454","text":"1"}
+ get_0:1
+12:59:04
+
+{"phoneNumber":"0785569911","sessionId":"439763222","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:59:07
+
+{"phoneNumber":"0785569911","sessionId":"439763222","serviceCode":"*454","text":"1*1*2"}
+ get_0:1
+12:59:10
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":""}
+ get_0:
+12:59:45
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":"1"}
+ get_0:1
+12:59:53
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":"1*1"}
+ get_0:1
+12:59:58
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":"1*1*2"}
+ get_0:1
+01:01:12
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":"1*1*2*rg"}
+ get_0:1
+01:01:19
+
+{"phoneNumber":"0785569911","sessionId":"638390730","serviceCode":"*454","text":"1*1*2*rg*0785569911"}
+ get_0:1
+01:01:29
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":""}
+ get_0:
+01:02:01
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1"}
+ get_0:1
+01:02:07
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1"}
+ get_0:1
+01:02:11
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2"}
+ get_0:1
+01:02:15
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Rogers"}
+ get_0:1
+01:02:21
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Rogers*0785569911"}
+ get_0:1
+01:02:29
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":""}
+ get_0:
+01:03:59
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1"}
+ get_0:1
+01:04:03
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1"}
+ get_0:1
+01:04:06
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2"}
+ get_0:1
+01:04:09
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Roger"}
+ get_0:1
+01:04:15
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Roger*0785569911"}
+ get_0:1
+01:04:24
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Roger*0785569911*1"}
+ get_0:1
+01:04:31
+
+{"phoneNumber":"0785569911","sessionId":"415134011","serviceCode":"*454","text":"1*1*2*Roger*0785569911*1*Ngoma"}
+ get_0:1
+01:04:37
+
+{"phoneNumber":"0785569911","sessionId":"626247606","serviceCode":"*454","text":""}
+ get_0:
+02:23:51
+
+{"phoneNumber":"0785569911","sessionId":"626247606","serviceCode":"*454","text":"1"}
+ get_0:1
+02:23:59
+
+{"phoneNumber":"0785569911","sessionId":"156111505","serviceCode":"*454","text":""}
+ get_0:
+02:27:36
+
+{"phoneNumber":"0785569911","sessionId":"156111505","serviceCode":"*454","text":"1"}
+ get_0:1
+02:27:43
+
+{"phoneNumber":"0785569911","sessionId":"156111505","serviceCode":"*454","text":"1*1"}
+ get_0:1
+02:27:53
+
+{"phoneNumber":"0785569911","sessionId":"156111505","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+02:28:03
+
+{"phoneNumber":"0785569911","sessionId":"156111505","serviceCode":"*454","text":"1*1*1*Hirwa"}
+ get_0:1
+02:28:10
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":""}
+ get_0:
+02:28:51
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":"2"}
+ get_0:2
+02:28:57
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":"2*1"}
+ get_0:2
+02:29:02
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":"2*1*2"}
+ get_0:2
+02:29:08
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":"2*1*2*Roger"}
+ get_0:2
+02:29:15
+
+{"phoneNumber":"0785569911","sessionId":"121663050","serviceCode":"*454","text":"2*1*2*Roger*uj"}
+ get_0:2
+02:29:20
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":""}
+ get_0:
+09:04:18
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1"}
+ get_0:1
+09:04:38
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1"}
+ get_0:1
+09:04:47
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+09:05:02
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1*Jehovanis"}
+ get_0:1
+09:05:15
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456"}
+ get_0:1
+09:05:32
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911"}
+ get_0:1
+09:06:00
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*4"}
+ get_0:1
+09:06:55
+
+{"phoneNumber":"0785569911","sessionId":"906620387","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*4*Kicukiro"}
+ get_0:1
+09:07:10
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":""}
+ get_0:
+09:09:12
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1"}
+ get_0:1
+09:09:17
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1"}
+ get_0:1
+09:09:22
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+09:09:26
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1*Jehovanis"}
+ get_0:1
+09:09:41
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456"}
+ get_0:1
+09:09:52
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911"}
+ get_0:1
+09:10:00
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*1"}
+ get_0:1
+09:10:05
+
+{"phoneNumber":"0785569911","sessionId":"50989769","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*1*Muhanga"}
+ get_0:1
+09:10:15
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":""}
+ get_0:
+09:10:30
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1"}
+ get_0:1
+09:10:36
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1"}
+ get_0:1
+09:10:39
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1*2"}
+ get_0:1
+09:10:43
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1*2*Roger"}
+ get_0:1
+09:10:51
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1*2*Roger*0785569911"}
+ get_0:1
+09:10:58
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1*2*Roger*0785569911*1"}
+ get_0:1
+09:11:03
+
+{"phoneNumber":"0785569911","sessionId":"851183422","serviceCode":"*454","text":"1*1*2*Roger*0785569911*1*Ngoma"}
+ get_0:1
+09:11:12
+
+{"phoneNumber":"0785569911","sessionId":"765887549","serviceCode":"*454","text":""}
+ get_0:
+09:12:16
+
+{"phoneNumber":"0785569911","sessionId":"765887549","serviceCode":"*454","text":"1"}
+ get_0:1
+09:12:20
+
+{"phoneNumber":"0785569911","sessionId":"765887549","serviceCode":"*454","text":"1*1"}
+ get_0:1
+09:12:25
+
+{"phoneNumber":"0785569911","sessionId":"765887549","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+09:20:58
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":""}
+ get_0:
+10:03:02
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1"}
+ get_0:1
+10:03:09
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1"}
+ get_0:1
+10:03:14
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1"}
+ get_0:1
+10:03:18
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1*Jehovanis"}
+ get_0:1
+10:03:25
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456"}
+ get_0:1
+10:03:33
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911"}
+ get_0:1
+10:03:40
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*4"}
+ get_0:1
+10:03:45
+
+{"phoneNumber":"0785569911","sessionId":"936370132","serviceCode":"*454","text":"1*1*1*Jehovanis*1234567890123456*0785569911*4*Kicukiro"}
+ get_0:1
+10:04:12
+

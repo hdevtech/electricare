@@ -1,0 +1,20 @@
+{"ref":"service_request_reg","sr_username":"roger","sr_nid":"1234567890123456","sr_tell":"0785569911","s_id":"1","sr_district":"Ngoma"}
+ get_0:1
+12:01:17
+
+{"ref":"service_request_reg","sr_username":"Roger","sr_nid":"1234567890123456","sr_tell":"0785569911","s_id":"3","sr_district":"Ngoma"}
+ get_0:1
+12:23:53
+
+{"ref":"service_request_reg","sr_username":"Jehovanis","sr_nid":"1234567890123456","sr_tell":"0785569911","s_id":"4","sr_district":"Kicukiro"}
+ get_0:1
+09:07:12
+
+{"ref":"service_request_reg","sr_username":"Jehovanis","sr_nid":"1234567890123456","sr_tell":"0785569911","s_id":"1","sr_district":"Muhanga"}
+ get_0:1
+09:10:15
+
+{"ref":"service_request_reg","sr_username":"Jehovanis","sr_nid":"1234567890123456","sr_tell":"0785569911","s_id":"4","sr_district":"Kicukiro"}
+ get_0:1
+10:04:12
+

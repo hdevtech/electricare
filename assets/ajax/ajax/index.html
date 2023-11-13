@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>Page Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/jas-carousel.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jas-carousel.js"></script>
+</head>
+
+<body> 
+    <main>
+        <div class="container cf">
+            <div class="slider-main">
+                <ul class="slider">
+                    <li>1</li>
+                    <li>2</li>
+                    <li>3</li>
+                    <li>4</li>
+                    <li>5</li>
+                    <li>6</li>
+                    <li>7</li>
+                    <li>8</li>
+                    <li>9</li>
+                    <li>10</li>
+                    <li>11</li>
+                    <li>12</li>
+                    <li>13</li>
+                    <li>14</li>
+                    <li>15</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+</body>
+
+<script>
+    $(document).ready(function() {
+        $(".slider").jasCarousel({
+            margin: 30,
+            auto: true,
+            speed: 800,
+            delay: 2000,
+            slideFrontFace: false,
+            moveOnSlideClick: true,
+            prevText:'Prev',
+            nextText:'Next'
+        })
+    })
+
+</script>
+
+</html>
